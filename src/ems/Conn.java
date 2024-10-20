@@ -6,7 +6,7 @@ public class Conn {
 
     private static final String HOST = "employeemanagementsystem";
     private static final String USER = "root";
-    private static final String PASSWORD = "1wocamalS!";
+    private static final String PASSWORD = "";
 
     private Connection c;
     public Statement s;
